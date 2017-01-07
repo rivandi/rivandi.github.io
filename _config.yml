@@ -19,7 +19,6 @@ email: riyad.rivandi@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Notes and rants about the IT computer thingies.
   Possible topics including backend, data, microservices, scientist, buzzwords.
-  Root of some evils.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://riyadd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  riyadd
