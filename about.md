@@ -22,4 +22,4 @@ I can't program HTML and CSS.
 
 > After throwing buzzwords around office, I go back hiding in my bedroom then dabble on whatever I find interesting or just lay in bed doing nothing for hours.
 
-Actually I just want to lay in my bed, browse the net, and eat stuffs everyday.
+Actually I just want to lay in my bed, browse the net, and eat ramen.
