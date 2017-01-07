@@ -4,12 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+> Below is my [LinkedIn](https://www.linkedin.com/in/riyadrivandi) description. It has a lot of buzzwords. It is good for SEO.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+After realizing that watching YouTube in bed all day is not a sustainable career choice, I tried to code and gradually grew into it. Then I started freelancing around 2013, doing web development or algorithm implementation which are fundamentals for my current works.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+I particularly enjoy increasing accuracy and decreasing response time. I aspire to be intersection of data science and data engineering.
+
+My favorite responsibility is learning technology or theory that helps product delivery, and creating its proof of concept. Be it related to high-availability, software performance, machine learning, data storage, or open source in general, I'm happy to explore, share, and discuss (well, except for visual stuffs).
+
+> I don't like creating pretty visuals.
+> Thanks to great designers out there that lets me use their stuffs for free.
+
+After throwing buzzwords around office, I go back hiding in my bedroom then dabble on whatever I find interesting or just lay in bed doing nothing for hours.
+
+> Actually I just want to lay in my bed, browsing the net, and eating great foods.
+> Everyday. Like sloth. Sloth is the best.
