@@ -59,8 +59,9 @@ The purpose of this snippet is to list all your posts posted with a certain tag.
 		 {{ post.title }}
 		 </a>
 		 (
-		 {% for tag in post.tags %}
-			 <a class="tag" href="/blog/tag/#{{ tag | slugify }}"><small>{{ tag }}.</small></a>
+		 {% assign post_tags = post.tags | sort %}
+		 {% for tag in  post_tags %}
+			<small>{{ tag }}.</small>
 		 {% endfor %}
 		 )
 		 </h4>
