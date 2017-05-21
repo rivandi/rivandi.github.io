@@ -2,7 +2,7 @@
 layout: post
 title:  "Note from \"Retail Recommendation Engines with Neo4j\""
 excerpt: "Or any graph database, generally"
-tags: [graph, "recommender system", note]
+tags: [graph, "recommender system"]
 permalink: /post/recommender-using-neo4j
 ---
 
