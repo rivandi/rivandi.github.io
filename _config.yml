@@ -20,8 +20,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Alternative facts about computer stuffs.
   Possible topics including backend, data, microservices, scientist, buzzwords.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://riyadd.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  riyadd
+url: "https://rivandi.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  rivandi
 # exclude: [vendor]
 # Build settings
 markdown: kramdown
