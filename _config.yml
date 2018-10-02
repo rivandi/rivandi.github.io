@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: is blog a publication?
 author: Riyad Rivandi
-email: riyad.rivandi@gmail.com
+email: 
 description: > # this means to ignore newlines until "baseurl:"
   Alternative facts about computer stuffs.
   Possible topics including backend, data, microservices, scientist, buzzwords.
